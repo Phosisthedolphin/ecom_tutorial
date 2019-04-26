@@ -22,8 +22,7 @@ body {
 }
 
 .caption {
-    height: 130px;
-    overflow: hidden;
+   height: 300px;
 }
 
 .caption h4 {
